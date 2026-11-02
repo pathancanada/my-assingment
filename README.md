@@ -769,7 +769,3 @@ Before production, close the following gaps:
 - [Extend an agent with a REST API](https://learn.microsoft.com/microsoft-copilot-studio/agent-extend-action-rest-api)
 - [Power Platform application lifecycle management](https://learn.microsoft.com/power-platform/alm/)
 - [OpenText supported products](https://my.opentext.com/support/products/)
-
-## License and usage
-
-Add the organization's approved license before publishing the repository. Confirm that use of OpenText content and APIs complies with applicable terms, support agreements, privacy requirements, and internal security standards.
